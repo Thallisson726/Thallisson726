@@ -23,4 +23,4 @@ Continuous Learning: Constantly improving my skills in software development and 
 ## 🌐 Where to Find Me  
 GitHub • LinkedIn
 
-## 🌱 Open to opportunities in technology.
+### 🌱 Open to opportunities in technology.
